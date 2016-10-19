@@ -1,0 +1,20 @@
+{
+    "name": "fis3-command-commit",
+    "version": "1.0.0",
+    "description": "糯米旅游 - 提交代码至 icode 组件",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "fis3"
+    ],
+    "author": "mabin03@baidu.com",
+    "license": "BSD",
+    "dependencies": {
+        "colors": "^1.1.2",
+        "juicer": "",
+        "pinkie-promise": "^2.0.0",
+        "commander": "^2.9.0"
+    }
+}
